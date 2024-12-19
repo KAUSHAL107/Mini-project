@@ -1,4 +1,4 @@
-// Programmed by - Navvy
+// Programmed by - kshl
 
 #include <stdio.h>  
 int main()  
